@@ -18,6 +18,9 @@
 
 ## Results
 
+![image](https://user-images.githubusercontent.com/104038813/178526674-751619aa-415f-400b-a2b6-654b63fd086c.png)
+
+
 ### Rides by City Type
 ![Fig2](https://user-images.githubusercontent.com/104038813/178518395-8f56e4e4-d136-4c6f-86ab-41d8c8a20fd3.png)
 
