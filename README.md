@@ -52,12 +52,13 @@
 ### Total Fare by City Type
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/104038813/178523279-c12c8b87-1a67-452b-ab55-714a60eca948.png)
 
+- In a snippet of 4 months worth of rides, the line chart shows urban cities having a much higher total fare count than the other two types of cities. 
+- All types increase total fares near the end of February and dip down near the beginning of March.
+
 ![Fig1](https://user-images.githubusercontent.com/104038813/178523300-ed1c3331-54be-42aa-9b69-3f7b8e65e05c.png)
 
-
-
-
-
+- From the bubble chart above, urban cities had more rides than suburban and rural cities, but the average fare was usually higher for rural trips.
+- The size of the bubbles indicates the driver count.
 
 
 ## Summary
