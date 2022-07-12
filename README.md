@@ -18,9 +18,6 @@
 
 ## Results
 
-![image](https://user-images.githubusercontent.com/104038813/178526674-751619aa-415f-400b-a2b6-654b63fd086c.png)
-
-
 ### Rides by City Type
 ![Fig2](https://user-images.githubusercontent.com/104038813/178518395-8f56e4e4-d136-4c6f-86ab-41d8c8a20fd3.png)
 
@@ -65,6 +62,9 @@
 
 
 ## Summary
+
+![image](https://user-images.githubusercontent.com/104038813/178526674-751619aa-415f-400b-a2b6-654b63fd086c.png)
+
 Three business recommendations based on the data: 
 1. Since urban drivers make up almost 87 % of all drivers, but only make up 63 % of all fares, I recommend adding more drivers in rural and suburban areas. 
 2. Adding more drivers during "peak" times and seasons would allow for an increase in total rides which results in an increase in total fares. 
