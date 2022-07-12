@@ -24,12 +24,17 @@
 - Based on the above chart, urban cities have an median number of rides of 24, where suburban median is 17 and rural median is 6. Urban cities have a median number of rides 4 times larger than rural cities. 
 - Urban city data did have one outlier city; suburban and rural cities had no outliers in the data
 
+![Fig6](https://user-images.githubusercontent.com/104038813/178520752-7ed1a678-b88b-433c-b110-977adfc3dad5.png)
+
 ### Total Drivers by City Type
 
 ![Fig4](https://user-images.githubusercontent.com/104038813/178519522-e0dfe0a6-6e43-45d7-891f-468fcee7b251.png)
 
 - The average driver count for city type was 37 for urban, 14 for suburban, and 4 for rural cities. 
+- Based on the plot, urban cities had a larger disparity between higher and lower number of drivers. 
+- The most number of drivers in urban cities was 39 drivers, which occurred 86 times. The most number of drivers in rural cities was  1 driver, which occurred 32 times. 
 
+### Total Fares by City Type
 
 
 ## Challenge Summary
