@@ -18,7 +18,7 @@
 
 ## Results
 
-### Total Rides by City Type
+### Rides by City Type
 ![Fig2](https://user-images.githubusercontent.com/104038813/178518395-8f56e4e4-d136-4c6f-86ab-41d8c8a20fd3.png)
 
 - Based on the above chart, urban cities have an median number of rides of 24, where suburban median is 17 and rural median is 6. Urban cities have a median number of rides 4 times larger than rural cities. 
@@ -27,7 +27,7 @@
 
 ![Fig6](https://user-images.githubusercontent.com/104038813/178520752-7ed1a678-b88b-433c-b110-977adfc3dad5.png)
 
-### Total Drivers by City Type
+### Drivers by City Type
 
 ![Fig4](https://user-images.githubusercontent.com/104038813/178519522-e0dfe0a6-6e43-45d7-891f-468fcee7b251.png)
 
@@ -39,7 +39,7 @@
 ![Fig8](https://user-images.githubusercontent.com/104038813/178521235-81ab10c7-1931-49d4-b55c-751dbe2663d5.png)
 
 
-### Total Fares by City Type
+### Fares by City Type
 
 ![Fig3](https://user-images.githubusercontent.com/104038813/178522174-4eb994e3-eca0-4bb0-9570-d0f6480c9de7.png)
 
@@ -49,7 +49,16 @@
 
 ![Fig5](https://user-images.githubusercontent.com/104038813/178522802-3136d3c6-9c70-440d-beed-ef960a2df126.png)
 
+### Total Fare by City Type
+![Pyber_fare_summary](https://user-images.githubusercontent.com/104038813/178523279-c12c8b87-1a67-452b-ab55-714a60eca948.png)
+
+![Fig1](https://user-images.githubusercontent.com/104038813/178523300-ed1c3331-54be-42aa-9b69-3f7b8e65e05c.png)
 
 
-## Challenge Summary
+
+
+
+
+
+## Summary
 
