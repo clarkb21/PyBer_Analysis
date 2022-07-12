@@ -41,6 +41,15 @@
 
 ### Total Fares by City Type
 
+![Fig3](https://user-images.githubusercontent.com/104038813/178522174-4eb994e3-eca0-4bb0-9570-d0f6480c9de7.png)
+
+- The average fare price for urban trips was $24.53, suburban trips was $30.97, and rural trips was $34.62
+- Some factors that could cause the fare price to increase in rural trips can include total distance traveled and the lack of drivers available. 
+- Urban cities accounted for about 63 percent of all fares.
+
+![Fig5](https://user-images.githubusercontent.com/104038813/178522802-3136d3c6-9c70-440d-beed-ef960a2df126.png)
+
+
 
 ## Challenge Summary
 
