@@ -62,4 +62,7 @@
 
 
 ## Summary
-
+Three business recommendations based on the data: 
+1. Since urban drivers make up almost 87 % of all drivers, but only make up 63 % of all fares, I recommend adding more drivers in rural and suburban areas. 
+2. Adding more drivers during "peak" times and seasons would allow for an increase in total rides which results in an increase in total fares. 
+3. By identifying urban cities with a high driver count but lower number of rides and average fare, we can reduce number of drivers in those cities and save on payroll. 
