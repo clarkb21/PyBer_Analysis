@@ -8,14 +8,13 @@
 
 
 ### Challenge Overview
-- School board discovered cases of Academic Dishonesty at a particular school
-- I was tasked with replacing scores for those students with "Nans" to adjust the data
-- The rest of the data needs to be fully intact, only adjusting the math and reading scores from that school
+- Create a summary data frame of the ride sharing data by city type
+- Create a multiple-line graph that shows the weekly fares for each city type
 
 ## Resources
-- Data Source: schools_complete.csv; students_complete.csv
+- Data Source: city_data.csv; ride_data.csv
 - Software: Python 3.7.6, Conda 4.13.0, Jupyter Notebook 6.4.8, Pandas 1.4.3
-- MSU Bootcamp Spot Module 4: https://courses.bootcampspot.com/courses/2508/assignments/31963?module_item_id=634879
+- MSU Bootcamp Spot Module 5: https://courses.bootcampspot.com/courses/2508/pages/5-dot-0-1-visualizing-ride-sharing-data?module_item_id=634904
 
 ## Results
 
